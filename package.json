@@ -1,0 +1,15 @@
+{
+  "name": "boiler",
+  "version": "1.0.0",
+  "description": "React & NodeJS Boiler Plate",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Node"
+  ],
+  "author": "Eshana Paranagama",
+  "license": "MIT"
+}
